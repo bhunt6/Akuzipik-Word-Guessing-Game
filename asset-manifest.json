@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AnyLanguage-Word-Guessing-Game/static/css/main.35049ab9.css",
-    "main.js": "/AnyLanguage-Word-Guessing-Game/static/js/main.25b8201f.js",
-    "static/js/787.f0fc0331.chunk.js": "/AnyLanguage-Word-Guessing-Game/static/js/787.f0fc0331.chunk.js",
-    "static/media/BCSans-Bold.woff": "/AnyLanguage-Word-Guessing-Game/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/AnyLanguage-Word-Guessing-Game/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/AnyLanguage-Word-Guessing-Game/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/AnyLanguage-Word-Guessing-Game/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/AnyLanguage-Word-Guessing-Game/index.html",
-    "static/media/getFetch.cjs": "/AnyLanguage-Word-Guessing-Game/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.35049ab9.css.map": "/AnyLanguage-Word-Guessing-Game/static/css/main.35049ab9.css.map",
-    "main.25b8201f.js.map": "/AnyLanguage-Word-Guessing-Game/static/js/main.25b8201f.js.map",
-    "787.f0fc0331.chunk.js.map": "/AnyLanguage-Word-Guessing-Game/static/js/787.f0fc0331.chunk.js.map"
+    "main.css": "/Akuzipik-Word-Guessing-Game/static/css/main.ad5face3.css",
+    "main.js": "/Akuzipik-Word-Guessing-Game/static/js/main.6da09608.js",
+    "static/js/787.5784df1d.chunk.js": "/Akuzipik-Word-Guessing-Game/static/js/787.5784df1d.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Akuzipik-Word-Guessing-Game/index.html",
+    "static/media/getFetch.cjs": "/Akuzipik-Word-Guessing-Game/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.ad5face3.css.map": "/Akuzipik-Word-Guessing-Game/static/css/main.ad5face3.css.map",
+    "main.6da09608.js.map": "/Akuzipik-Word-Guessing-Game/static/js/main.6da09608.js.map",
+    "787.5784df1d.chunk.js.map": "/Akuzipik-Word-Guessing-Game/static/js/787.5784df1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35049ab9.css",
-    "static/js/main.25b8201f.js"
+    "static/css/main.ad5face3.css",
+    "static/js/main.6da09608.js"
   ]
 }
