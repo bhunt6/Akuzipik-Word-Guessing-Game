@@ -51,9 +51,9 @@ export const StatsModal = ({
       <h4 className="text-lg leading-6 font-medium text-gray-900">
         {t('guessDistribution')}
       </h4>
-      <a target="_blank" rel="noopener noreferrer" href={hrefLink}>View Solution in Dictionary</a>
       <Histogram gameStats={gameStats} />
       {(isGameLost || isGameWon) && (
+        <a target="_blank" rel="noopener noreferrer" href={hrefLink}>View Solution in Dictionary</a>
         <div className="mt-5 sm:mt-6 columns-2">
           <div>
             <h5>{t('newWordCountdown')}</h5>
