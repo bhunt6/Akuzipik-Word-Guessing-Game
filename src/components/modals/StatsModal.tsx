@@ -55,7 +55,7 @@ export const StatsModal = ({
       {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2">
           {/*<a target="_blank" rel="noopener noreferrer" href={hrefLink}>View Solution in Dictionary</a>*/}
-          <div className="place-content-center">
+          <div className="mt-5">
             <h5>{t('newWordCountdown')}</h5>
             <Countdown
               className="text-lg font-medium text-gray-900"
