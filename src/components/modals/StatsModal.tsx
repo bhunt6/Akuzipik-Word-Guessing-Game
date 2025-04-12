@@ -55,7 +55,11 @@ export const StatsModal = ({
       {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2">
           {/*<a target="_blank" rel="noopener noreferrer" href={hrefLink}>View Solution in Dictionary</a>*/}
-          <div>
+          <div classname="place-content-center" {
+            constructor(parameters) {
+              
+            }
+          }>
             <h5>{t('newWordCountdown')}</h5>
             <Countdown
               className="text-lg font-medium text-gray-900"
@@ -70,7 +74,7 @@ export const StatsModal = ({
               window.location.href = hrefLink;
             }}
           >
-            {t('look it up')}
+            {t('Look it up')}
           </button>
           <button
             type="button"
