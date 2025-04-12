@@ -6,6 +6,9 @@ import { shareStatus } from '../../lib/share'
 import { tomorrow } from '../../lib/words'
 import { BaseModal } from './BaseModal'
 import { useTranslation } from 'react-i18next'
+import { solution } from '../../lib/words'
+
+const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/results.html?search=" + solution + "&lang=akuz";
 
 type Props = {
   isOpen: boolean
@@ -48,6 +51,7 @@ export const StatsModal = ({
       <h4 className="text-lg leading-6 font-medium text-gray-900">
         {t('guessDistribution')}
       </h4>
+      <a target="_blank" rel="noopener noreferrer" v-bind:href="hrefLink"></a>
       <Histogram gameStats={gameStats} />
       {(isGameLost || isGameWon) && (
         <div className="mt-5 sm:mt-6 columns-2">
