@@ -6,7 +6,7 @@ import { shareStatus } from '../../lib/share'
 import { tomorrow } from '../../lib/words'
 import { BaseModal } from './BaseModal'
 import { useTranslation } from 'react-i18next'
-import { solution } from '../../lib/words'
+//import { solution } from '../../lib/words'
 import { entries } from '../../constants/wordlist'
 
 
