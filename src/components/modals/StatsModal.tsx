@@ -6,12 +6,13 @@ import { shareStatus } from '../../lib/share'
 import { tomorrow } from '../../lib/words'
 import { BaseModal } from './BaseModal'
 import { useTranslation } from 'react-i18next'
-//import { solution } from '../../lib/words'
-import { entries } from '../../constants/wordlist'
+import { solution } from '../../lib/words'
+//import { entries } from '../../constants/wordlist'
 
 
 
-const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/entry.html?entry=" + entries.aantaq;
+//const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/entry.html?entry=" + entries.aantaq;
+const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/results.html?search=" + solution + "&lang=akuz";
 
 type Props = {
   isOpen: boolean
