@@ -426,6 +426,15 @@ export const WORDS = [
   "tiinta",
 ]
 
+export const entries = {
+  "aantaq":"5d63154602ec579eb5b411a2afe903a2b93b7ade",
+  "saagta":"0a7892a07a838a8d12940f757feac375cbf3c9be",
+  "teggeq":"98fd6c37d9f8ca6fc2a51b3002a6955cc4fbaa5a",
+  "aanvik":"80a0a6ea93699d4436e6e8204a15437562347d18",
+  "aghula":"bf06398e09b10a03afa4be64feb2aee617772b60",
+  "penguq":"9ca030b090d589975302d889255189ba30a53d10",
+}
+
 if (CONFIG.normalization) {
   WORDS.forEach((val, i) => (WORDS[i] = val.normalize(CONFIG.normalization)))
 }
