@@ -1,6 +1,6 @@
 {
     "about": "About this game",
-    "gameName": "Word Guessing Game - {{language}}",
+    "gameName": "Akuzle",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
