@@ -147,12 +147,14 @@ const App: React.FC<WithTranslation> = ({ t, i18n }) => {
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8">
-        <h1 className="text-xl grow font-bold">
-          {t('gameName')}
-        </h1>
-        <h2>
-          {t('A word guessing game for ', { language: CONFIG.language })}
-        </h2>
+        <div className="flex-col items-start">
+          <h1 className="text-3xl grow font-bold">
+            {t('gameName')}
+          </h1>
+          <h2>
+            {t('subtitle', { language: CONFIG.language })}
+          </h2>
+        </div>
         {translateElement}
         <InformationCircleIcon
           className="h-6 w-6 cursor-pointer"
