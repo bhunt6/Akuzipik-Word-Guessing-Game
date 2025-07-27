@@ -210,7 +210,9 @@ export const WORDS = [
 "uunmek",
 "uzimun",
 "wasiwa",
-"whaten"
+"whaten",
+"aghnaq",
+"qiipaq"
 ]
 
 export const entries = {

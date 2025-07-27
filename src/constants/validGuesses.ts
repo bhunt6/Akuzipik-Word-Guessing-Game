@@ -1,6 +1,7 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
+"aghnaq",
 "aaghlu",
 "aaghsi",
 "aagneq",
@@ -183,6 +184,7 @@ export const VALIDGUESSES = [
 "qupuma",
 "quqiiq",
 "qutuqa",
+"qiipaq",
 "rapaka",
 "repaka",
 "repall",
