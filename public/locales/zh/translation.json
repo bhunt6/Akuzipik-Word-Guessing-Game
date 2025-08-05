@@ -13,6 +13,7 @@
   "correctSpotInstructions": "字母 W 出現在正解當中，並且在正確的位置。",
   "wrongSpotInstructions": "字母 L 出現在正解當中，但不在正確的位置。",
   "notInWordInstructions": "字母 U 不在正解當中。",
+  "goodluck": "好运!",
   "guessDistribution": "猜詞分佈",
   "statistics": "統計",
   "totalTries": "總猜測次數",
