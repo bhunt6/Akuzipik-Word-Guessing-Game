@@ -13,6 +13,7 @@
   "correctSpotInstructions": "La letra T se encuentra en la palabra y está en la posición correcta.",
   "wrongSpotInstructions": "La letra N se encuentra en la palabra pero en la posición incorrecta.",
   "notInWordInstructions": "La letra O no se encuentra en la palabra.",
+  "goodluck": "Suerte!",
   "guessDistribution": "Distribución de aciertos",
   "statistics": "Estadísticas",
   "totalTries": "Jugadas",
