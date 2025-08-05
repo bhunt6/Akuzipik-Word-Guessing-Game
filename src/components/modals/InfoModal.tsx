@@ -65,6 +65,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           })}
       </div>
       <p className="text-sm text-gray-500">{t('notInWordInstructions')}</p>
+      <p className="text-sm text-gray-500">{t('goodluck')}</p>
     </BaseModal>
   )
 }
