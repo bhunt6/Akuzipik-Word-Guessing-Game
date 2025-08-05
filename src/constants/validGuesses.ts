@@ -185,6 +185,7 @@ export const VALIDGUESSES = [
 "quqiiq",
 "qutuqa",
 "qiipaq",
+"qikmiq",
 "rapaka",
 "repaka",
 "repall",
