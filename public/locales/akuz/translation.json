@@ -112,10 +112,10 @@
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "Sivuleq <1>whani</1> naghaghu",
     "languages": {
+        "akuz": "Akuzipigestun",
         "en": "English",
         "es": "Español",
         "sw": "Kiswahili",
-        "zh": "中文",
-        "akuz": "Akuzipigestun"
+        "zh": "中文"        
     }
 }

@@ -22,6 +22,7 @@
   "bestStreak": "最佳連續獲勝次數",
   "newWordCountdown": "距離下個新單詞出現還有",
   "share": "分享",
+  "lookup": "搜索",
   "firstExampleWord": [
     {
       "letter": "W",
@@ -93,6 +94,7 @@
   "aboutDataSentence": "本遊戲的單詞來源為 <1>{{wordListSource}}</1>。",
   "aboutOriginalSentence": "您也可以前往 <1>here</1> 玩一玩原版的 Word-Guessing-Game 喔！",
   "languages": {
+    "akuz": "Akuzipik",
     "en": "English",
     "es": "Español",
     "sw": "Kiswahili",

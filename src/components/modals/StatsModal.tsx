@@ -74,7 +74,7 @@ export const StatsModal = ({
               window.open(hrefLink, "_blank");
             }}
           >
-            {t('Look it up')}
+            {t('lookup')}
           </button>
           <button
             type="button"
