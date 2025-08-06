@@ -1,6 +1,7 @@
 {
   "about": "Habari ya mchezo huu",
-  "gameName": "Si Word-Guessing-Game - {{language}}",
+  "gameName": "Akuzle",
+  "subtitle": "A word guessing game for {{language}}",
   "enterKey": "Ingiza",
   "deleteKey": "Futa",
   "notEnoughLetters": "Herufi ni ndogo",
@@ -95,7 +96,7 @@
   "aboutDataSentence": "Neno za mchezo huu zilitoa kutoka <1>{{wordListSource}}</1>. ",
   "aboutOriginalSentence": "Unaweza kucheza mchezo awali <1>hapa</1>",
   "languages": {
-    "akuz": "Akuzipik",
+    "akuz": "Akuzipigestun",
     "en": "English",
     "es": "Español",
     "sw": "Kiswahili",
