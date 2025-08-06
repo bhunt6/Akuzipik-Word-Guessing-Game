@@ -22,6 +22,7 @@
   "bestStreak": "Mejor racha",
   "newWordCountdown": "Nueva palabra en",
   "share": "Compartir",
+  "lookup": "Buscarla",
   "winMessages": ["¡Gran trabajo!", "Increíble", "¡Bien hecho!"],
   "firstExampleWord": [
     {
@@ -94,6 +95,7 @@
   "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
   "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
   "languages": {
+    "akuz": "Akuzipik",
     "en": "English",
     "es": "Español",
     "sw": "Kiswahili",
