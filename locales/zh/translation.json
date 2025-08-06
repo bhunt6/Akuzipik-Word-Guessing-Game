@@ -1,6 +1,7 @@
 {
   "about": "關於本遊戲",
-  "gameName": "No Word-Guessing-Game - {{language}}",
+  "gameName": "Akuzle",
+  "subtitle": "A word guessing game for {{language}}",
   "enterKey": "輸入",
   "deleteKey": "刪除",
   "notEnoughLetters": "字母數不足",
@@ -94,7 +95,7 @@
   "aboutDataSentence": "本遊戲的單詞來源為 <1>{{wordListSource}}</1>。",
   "aboutOriginalSentence": "您也可以前往 <1>here</1> 玩一玩原版的 Word-Guessing-Game 喔！",
   "languages": {
-    "akuz": "Akuzipik",
+    "akuz": "Akuzipigestun",
     "en": "English",
     "es": "Español",
     "sw": "Kiswahili",
