@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Akuzipik-Word-Guessing-Game/static/css/main.495977e7.css",
-    "main.js": "/Akuzipik-Word-Guessing-Game/static/js/main.49a3edb0.js",
+    "main.js": "/Akuzipik-Word-Guessing-Game/static/js/main.9c030ef3.js",
     "static/js/453.313d9cb8.chunk.js": "/Akuzipik-Word-Guessing-Game/static/js/453.313d9cb8.chunk.js",
     "static/media/BCSans-Bold.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Akuzipik-Word-Guessing-Game/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Akuzipik-Word-Guessing-Game/index.html",
     "static/media/getFetch.cjs": "/Akuzipik-Word-Guessing-Game/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.495977e7.css.map": "/Akuzipik-Word-Guessing-Game/static/css/main.495977e7.css.map",
-    "main.49a3edb0.js.map": "/Akuzipik-Word-Guessing-Game/static/js/main.49a3edb0.js.map",
+    "main.9c030ef3.js.map": "/Akuzipik-Word-Guessing-Game/static/js/main.9c030ef3.js.map",
     "453.313d9cb8.chunk.js.map": "/Akuzipik-Word-Guessing-Game/static/js/453.313d9cb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.495977e7.css",
-    "static/js/main.49a3edb0.js"
+    "static/js/main.9c030ef3.js"
   ]
 }
