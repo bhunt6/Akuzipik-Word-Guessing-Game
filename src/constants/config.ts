@@ -3,7 +3,7 @@ export const CONFIG = {
   language: 'St. Lawrence Island Akuzipik', // This changes the display name for your language
   wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Benjamin Hunt', // Put your name here so people know who made this game!
-  authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
+  authorWebsite: 'https://github.com/bhunt6/Akuzipik-Word-Guessing-Game', // Put a link to your website or social media here
   wordListSource: 'Akuzipigestun Sangaawa', // Describe the source material for your words here
   wordListSourceLink: 'https://bhunt6.github.io/akuzipigestun-sangaawa/', // Put a link to the source material for your words here
   //
