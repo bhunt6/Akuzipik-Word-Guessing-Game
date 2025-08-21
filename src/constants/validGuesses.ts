@@ -275,7 +275,8 @@ export const VALIDGUESSES = [
 "whaken",
 "whanga",
 "whaten",
-"whavek"
+"whavek",
+"amigen",
 ]
 
 if (CONFIG.normalization) {

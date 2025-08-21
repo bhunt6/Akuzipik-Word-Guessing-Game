@@ -275,7 +275,8 @@ export const WORDS = [
 "whagun",
 "aagkut",
 "ukavek",
-"maagun"
+"maagun",
+"amigen",
 ]
 
 export const entries = {
