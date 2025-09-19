@@ -277,6 +277,12 @@ export const WORDS = [
 "ukavek",
 "maagun",
 "amigen",
+"talliq",
+"laalit",
+"sallek",
+"saagta",
+"sufluk",
+"qafsik"
 ]
 
 export const entries = {
