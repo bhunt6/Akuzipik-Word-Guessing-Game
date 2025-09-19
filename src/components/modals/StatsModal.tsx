@@ -12,7 +12,7 @@ import { solution } from '../../lib/words'
 
 
 //const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/entry.html?entry=" + entries.aantaq;
-const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/results.html?search=" + solution + "&lang=akuz";
+const hrefLink = "https://bhunt6.github.io/akuzipigestun-sangaawa/index.html?search=" + solution + "&lang=akuz";
 
 type Props = {
   isOpen: boolean
